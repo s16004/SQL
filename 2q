@@ -1,0 +1,2 @@
+select last_name  "earns"  salary  "montly but ants"  salary * 3
+from employees;
